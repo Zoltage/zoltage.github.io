@@ -1,0 +1,28 @@
+body{
+    color: #b93546;
+    font-family:monospace;
+    font-size: xx-large;
+}
+html{
+    background-color: lightgray;
+}
+p{
+  color: teal;
+  margin: 0 0;
+}
+.center{
+    margin: auto;
+    width: 65%;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+hr.new{
+  border: 1px solid #b93546;
+  
+}
+hr.next{
+  border: 1px dashed teal;
+}
+a{
+  color:#08966E
+}
